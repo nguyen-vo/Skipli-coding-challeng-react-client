@@ -1,4 +1,4 @@
-#skipli-coding-challenge-react-client
+# skipli-coding-challenge-react-client
 - Implement the front-end of the server-api (https://github.com/nguyen-vo/skipli-coding-challenge-server) that have a form in which users can provide phone number to get access code and validate the code through post requests
 - The form has two fields phoneNumber field and accessCode field.
     - Initially, the accessCode field is hidden from the user. As soon as the user provides a valid phone number, the accessCode field is visible for the user to validate the access code.
